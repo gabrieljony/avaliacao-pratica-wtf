@@ -1,0 +1,180 @@
+{
+  "transacao": [
+    {
+      "comprador_id": "gabriel_jony@hotmail.com",
+      "vendedor_id": "gabriel_jony@hotmail.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "gabriel_jony@hotmail.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "123456789",
+        "rua": "Rua Esquina",
+        "numero": "30",
+        "bairro": "",
+        "cidade": "Salvador",
+        "estado": "Ba"
+      },
+      "id": 1
+    },
+    {
+      "comprador_id": "ola@teste.com",
+      "vendedor_id": "gabriel_jony@hotmail.com",
+      "produto": {
+        "id": "controle",
+        "nome": "Controle",
+        "usuario_id": "gabriel_jony@hotmail.com",
+        "preco": "299",
+        "vendido": "false",
+        "descricao": "Esse é um novo controle.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "45652365",
+        "rua": "12",
+        "numero": "132",
+        "bairro": "nova",
+        "cidade": "123",
+        "estado": "123"
+      },
+      "id": 2
+    }
+  ],
+  "usuario": [
+    {
+      "id": "gabriel_jony@hotmail.com",
+      "email": "gabriel_jony@hotmail.com",
+      "nome": "Gabriel Jony",
+      "senha": "123",
+      "rua": "Rua Esquina",
+      "cep": "123456789",
+      "numero": "30",
+      "estado": "Ba",
+      "cidade": "Salvador"
+    },
+    {
+      "id": "teste@gmail.com",
+      "nome": "teste",
+      "email": "teste@gmail.com",
+      "senha": "132545",
+      "cep": "40040090",
+      "rua": "Rua da Mouraria",
+      "numero": "55",
+      "bairro": "Nazaré",
+      "cidade": "Salvador",
+      "estado": "BA"
+    },
+    {
+      "id": "teste@yahoo.com",
+      "nome": "GABRIEL JONY BORGES SILVA",
+      "email": "teste@yahoo.com",
+      "senha": "123",
+      "cep": "40040090",
+      "rua": "Rua da Mouraria",
+      "numero": "33",
+      "bairro": "Nazaré",
+      "cidade": "Salvador",
+      "estado": "BA"
+    },
+    {
+      "id": "ola@teste.com",
+      "nome": "ola",
+      "email": "ola@teste.com",
+      "senha": "123",
+      "cep": "45652365",
+      "rua": "12",
+      "numero": "132",
+      "bairro": "nova",
+      "cidade": "123",
+      "estado": "123"
+    }
+  ],
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "controle",
+      "nome": "Controle",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "299",
+      "vendido": "false",
+      "descricao": "Esse é um novo controle.",
+      "fotos": null
+    },
+    {
+      "id": "mouse",
+      "nome": "Mouse",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "59",
+      "vendido": "false",
+      "descricao": "Esse é um novo mouse.",
+      "fotos": null
+    },
+    {
+      "id": "teclado",
+      "nome": "Teclado",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "99",
+      "vendido": "false",
+      "descricao": "Esse é um novo teclado.",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartphone.",
+      "fotos": null
+    },
+    {
+      "id": "micro-pc",
+      "nome": "Micro PC",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "99",
+      "vendido": "false",
+      "descricao": "Esse é um novo micro pc.",
+      "fotos": null
+    },
+    {
+      "id": "tv",
+      "nome": "Tv",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tv.",
+      "fotos": null
+    },
+    {
+      "id": "fone",
+      "nome": "Fone",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "99",
+      "vendido": "false",
+      "descricao": "Esse é um novo fone.",
+      "fotos": null
+    },
+    {
+      "id": "microfone",
+      "nome": "Microfone",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo microfone.",
+      "fotos": null
+    }
+  ]
+}
